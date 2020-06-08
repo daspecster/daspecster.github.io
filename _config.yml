@@ -1,0 +1,8 @@
+title: Thomas Schultz
+description: Code is fun!
+google_analytics: UA-41319745-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
